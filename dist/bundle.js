@@ -1,11 +1,1 @@
-/******/ (() => { // webpackBootstrap
-/******/ 	"use strict";
-/*!**********************!*\
-  !*** ./src/index.ts ***!
-  \**********************/
-
-console.log('Webpack + TypeScript śmiga!');
-
-/******/ })()
-;
-//# sourceMappingURL=bundle.js.map
+(()=>{"use strict";var __webpack_modules__={156:()=>{eval("{\nconsole.log('Webpack + TypeScript śmiga!');\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMTU2LmpzIiwibWFwcGluZ3MiOiI7QUFBQSxPQUFPLENBQUMsR0FBRyxDQUFDLDZCQUE2QixDQUFDLENBQUMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9wcm9qZWN0LWxlYXJuLWdpdC8uL3NyYy9pbmRleC50cz9mZmI0Il0sInNvdXJjZXNDb250ZW50IjpbImNvbnNvbGUubG9nKCdXZWJwYWNrICsgVHlwZVNjcmlwdCDFm21pZ2EhJyk7XG4iXSwibmFtZXMiOltdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///156\n\n}")}},__webpack_exports__={};__webpack_modules__[156]()})();

@@ -1,0 +1,73 @@
+# Build and production files
+dist
+tmp/
+storybook-static
+wdio-transpiled.conf.js
+
+# Documentation
+_docs
+.targets
+
+# Test coverage and reports
+*.coverage
+coverage/
+lib-cov
+.nyc_output/
+reports/
+stats.html
+
+# Local test outputs
+tests/functional/screenshots/*.png
+tests/functional/reports/*.md
+tests/functional/tools/suitest-target-status/credentials.json
+tests/functional/tools/suitest-target-status/targets_list.json
+tests/functional/.cache
+tests/functional/suitest_configs/targets_list.json
+test/e2e/steps/hooks/railSchedule.json
+test/e2e/steps/hooks/epg.json
+test/e2e/steps/hooks/startupData.json
+test/e2e/steps/hooks/comingUpRail.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+lerna-debug.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Cache and dependencies
+node_modules/
+.npm
+.turbo
+
+# IDE and editor files
+.idea
+.vscode
+jsconfig.json
+*.swp
+.node_repl_history
+
+# Environment files
+.env
+
+# Miscellaneous
+.DS_Store
+*.orig
+donotinclude.js
+dev/index.html
+*.tgz
+
+# Terraform
+.terraform
+.terraform-*
+
+# E2E
+ctrf
+
+# Featurevisor
+fv_datafile.js
